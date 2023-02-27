@@ -1,0 +1,26 @@
+html{
+    background-color:black;
+}
+
+h1 {
+    color: indigo;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-family: 'Shantell Sans', cursive;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: crimson;
+}
+
+#fnt {
+    text-align: center;
+}
+
+#miojo {
+    border: 10px solid crimson;
+    border-radius: 50px;
+}
